@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abhi312k5-portfolio.vercel.app/sitemap.xml
