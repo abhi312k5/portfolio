@@ -1372,11 +1372,11 @@ textarea {
 }
 
 .ach-rank.gold {
-  background: linear-gradient(135deg, #f59e0b, #fbbf24);
+  background: linear-gradient(135deg, #AF9500, #AF9500);
 }
 
 .ach-rank.silver {
-  background: linear-gradient(135deg, #64748b, #94a3b8);
+  background: linear-gradient(135deg, #CD7F32, #CD7F32);
 }
 
 .ach-card h3 {
