@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Silent zone IoT">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="50%" stop-color="#0891b2"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#g)"/>
+  <circle cx="400" cy="200" r="40" fill="#fff" opacity="0.9"/>
+  <path d="M340 200 Q400 120 460 200" fill="none" stroke="#fff" stroke-width="8" opacity="0.7"/>
+  <path d="M300 200 Q400 70 500 200" fill="none" stroke="#fff" stroke-width="8" opacity="0.45"/>
+  <text x="400" y="360" text-anchor="middle" fill="#fff" font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="600">Silent Zone IoT</text>
+</svg>

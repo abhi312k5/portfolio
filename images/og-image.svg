@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Abhishek S Portfolio">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="980" cy="120" r="180" fill="#2563EB" opacity="0.25"/>
+  <circle cx="180" cy="520" r="160" fill="#38BDF8" opacity="0.2"/>
+  <text x="80" y="250" font-family="Poppins, Arial, sans-serif" font-size="64" font-weight="700" fill="#F8FAFC">Abhishek S</text>
+  <text x="80" y="320" font-family="Poppins, Arial, sans-serif" font-size="32" font-weight="500" fill="url(#accent)">Software Developer · AI/ML · Full Stack · IoT</text>
+  <text x="80" y="390" font-family="Poppins, Arial, sans-serif" font-size="24" fill="#94A3B8">MCA · The Gandhigram Rural Institute (DTBU)</text>
+</svg>
